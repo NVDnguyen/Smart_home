@@ -4,16 +4,13 @@
 //#define BLYNK_TEMPLATE_ID           "TMPxxxxxx"
 //#define BLYNK_TEMPLATE_NAME         "Device"
 //#define BLYNK_AUTH_TOKEN            "YourAuthToken"
-#define BLYNK_TEMPLATE_ID "TMPL6eEhuW5QF"
-#define BLYNK_TEMPLATE_NAME "SmartHome"
-#define BLYNK_AUTH_TOKEN "msrU2miWth64Y8AZllCxoWqvKzKbISsI"
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <stdlib.h>
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
-//https://sgp1.blynk.cloud/external/api/update?token=msrU2miWth64Y8AZllCxoWqvKzKbISsI&v0=0
+
 
 int buttonBlynk1;
 int buttonBlynk2;
