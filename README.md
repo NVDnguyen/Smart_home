@@ -25,7 +25,5 @@ This project utilizes various sensors and technologies to create a smart system 
 - Blynk library is utilized to connect to the Blynk Server, enabling remote device control via the mobile app.
 - ESP32 responds to events triggered from the Blynk app (button presses, state changes) and controls the corresponding relays accordingly.
 
-### Note:
-- Make sure to install necessary libraries and configure the hardware connections as described in the code documentation.
-- Detailed instructions for setting up the project and integrating with Blynk can be found in the accompanying documentation.
+
 
