@@ -1,3 +1,4 @@
+## [Schematic](https://www.flux.ai/hiloo/smart-home-blynk-esp32)
 ## Project Overview
 
 This project utilizes various sensors and technologies to create a smart system for monitoring air quality and controlling peripheral devices. Below is an overview of the components and functionalities incorporated:
